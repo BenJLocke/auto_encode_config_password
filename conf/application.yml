@@ -1,0 +1,16 @@
+code:
+  push:
+    password: ENC(TP/XMvKptnxDweCdjrlyzw==)
+hosts:
+- hostName: 192.168.0.1
+  password: ENC(ojtP1AOfYC28vR8b9tdmyg==)
+  user: jluo
+- hostName: 192.168.0.2
+  password: ENC(IAZITfhIvZiK4fZ+9UjPfA==)
+  user: jluo2
+- hostName: 192.168.0.3
+  password: ENC(TP/XMvKptnxDweCdjrlyzw==)
+  user: jluo
+jasypt:
+  encryptor:
+    password: Good password!
